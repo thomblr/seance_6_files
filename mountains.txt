@@ -1,0 +1,8 @@
+Arbizon ; 2831 ; Pyrenees ;
+Arneto ; 3350 ; Pyrenees ;
+Nanga Parbat ; 8125 ; Himalaya ;
+Broad Peak ; 8047 ; Karakoram ;
+Gasherbrum I ; 8068 ; Karakoram ;
+K2 ; 8611 ; Karakoram ;
+Araille ; 2759 ; Pyrenees ;
+Arnie ; 2504 ; Pyrenees ;
