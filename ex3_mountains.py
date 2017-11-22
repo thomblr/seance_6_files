@@ -12,6 +12,7 @@ def read_the_file(file):
         elements = line.split(';')
         dico[elements[0].strip()] = (elements[1].strip(), elements[2].strip())
 
+    fh.close()
     return dico
 
 
