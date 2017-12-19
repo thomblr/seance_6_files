@@ -7,19 +7,19 @@ books = {
         'year': 2016
     },
     '978-2290094495': {
-        'authors': ('Thomas Blanchy'),
+        'authors': 'Author Three',
         'pages': 12,
         'year': 1999
     },
     '123-9876543210': {
-        'authors': ('Thomas Blanchy', 'Author One'),
+        'authors': ('Author Three', 'Author One'),
         'pages': 1563,
         'year': 2008
     }
 }
 
 authors = {
-    'Thomas Blanchy': ['978-2290094495', '123-9876543210'],
+    'Author Three': ['978-2290094495', '123-9876543210'],
     'Author One': ['000-0000000000', '123-9876543210'],
     'Author Two': ['000-0000000000']
 }
